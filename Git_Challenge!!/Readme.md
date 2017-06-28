@@ -1,5 +1,5 @@
 # Git Challenge!!
-- Add your name to this file, and Get __special items__!!
+- Add your name to __NameList.txt__.
 - If you complete adding name, I'll give you special items in LINE.
 - ~~If you fail, Mr.Kano will manage for it, so don't worry.~~ I don't know.
 
@@ -29,10 +29,4 @@ $ git commit -m [messages]
 $ git push origin master
 ```
 
-
-
-# ADD YOUR NAME BELOW THIS
-- (ex) Lalaso
-- Hideki Kano
-  <b>Welcome to ようこそ github</b>
-- 
+<b>Welcome to ようこそ github</b>
