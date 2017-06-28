@@ -1,7 +1,8 @@
-# Get Cheating Paper!!
-- このファイルに名前を追加して過去問or過去レポを手に入れよう！
-- ここに名前が追加されるのを丹羽が確認すると、LINEで配布しにいきます。
-- ~~万が一失敗しても加納先輩がなんとかしてくれるから大丈夫！~~ いや，僕は知らないよ．
+# Git Challenge!!
+- Add your name to this file, and Get __special items__!!
+- If you complete adding name, I'll give you special items in LINE.
+- ~~If you fail, Mr.Kano will manage for it, so don't worry.~~ I don't know.
+
 
 # Here is hint.
 Using my PC, I cannot write Japanese. I was forced to use English.
@@ -29,8 +30,9 @@ $ git push origin master
 ```
 
 
-## この下に名前を追加しよう！
-- （例）丹羽拓実
+
+# ADD YOUR NAME BELOW THIS
+- (ex) Lalaso
 - Hideki Kano
   <b>Welcome to ようこそ github</b>
 - 
