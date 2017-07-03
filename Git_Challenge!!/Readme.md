@@ -10,21 +10,22 @@ Anyway, you studied English and possible to read English. It's no problem, isn't
 Have you thought Japanese? No, English. xD
 
 1. Make Github account and install "Git for Windows"
-2. Copy a text file from server to your pc. 
+2. Tell your account name to lalaso. He'll add you as collaborators.
+3. Copy a text file from server to your pc. 
 
 ```
 $ git clone http://hogehoge.jp  /* set to correct adress */
 ```
 
-3. Using text editor, like notepad.exe or else, make changes to a text file. 
-4. Apply for your changes.
+4. Using text editor, like notepad.exe or else, make changes to a text file. 
+5. Apply for your changes.
 
 ```
 $ git add [file names which you changed]
 $ git commit -m [messages]
 ```
 
-5.Let's copy from your pc to the server.
+6.Let's copy from your pc to the server.
 ```
 $ git push origin master
 ```
